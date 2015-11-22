@@ -12,3 +12,4 @@ You'll use this repo with GitHub's training on the Wheelhouse platform. When you
 - Born in Baia Mare Transylvania Romania
 - Favorite food Banana
 - Hobby Reading
+- Favorite color red
